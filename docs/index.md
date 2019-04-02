@@ -2,4 +2,4 @@ Armini ([AUTOSAR](https://www.autosar.org/) Mini) was a training project, I did 
 
 There was no _Hello World_ you could do, and get in to step by step, towards advanced courses. The moment you take first step, you see gigantic monolithic framework, with loads of conceptual components spread everywhere, interwoven to each other, always leaving you with more puzzles as you solve what you have on hand. Personally experiencing this when I started learning AUTOSAR was the main trigger for this tutorial.  
 
-I thus, created this tutorial including software components, completely from ground up while working in Robert Bosch, India. I used an evaluation board from Infineon for the hardware, and ETAS toolchain for the software. I hope you enjoy the tutorial. Thank you. 
+I thus, created this tutorial including software components, completely from ground up using an evaluation board from Infineon for the hardware, and ETAS toolchain for the software. I hope you enjoy the tutorial. Thank you. 
