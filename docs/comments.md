@@ -1,5 +1,5 @@
 # Your Comments
 
-This is my first time trying to integrate disqus in my customized mkdocs rtd theme. 
+Please share your valuable feedback and questions here. 
 
 <div id="disqus_thread"></div>
