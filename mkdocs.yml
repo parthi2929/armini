@@ -1,0 +1,22 @@
+site_name: My Docs
+site_dir: site/
+theme: 
+  name: 'readthedocs'
+  custom_dir: 'custom_theme/'
+  prev_next_buttons_location: bottom
+nav:
+  - Home : 'index.md'
+  - '1. Introduction' : '1_AUTOSAR_Methodology_Introduction.md'
+  - '2. Datatypes' : '2 AUTOSAR Methodology Datatypes.md'
+  - '3. Interfaces' : '3_AUTOSAR_Methodology_Interfaces.md'
+  - '4. Components' : '4_AUTOSAR_Methodology_Components.md'
+  - '5. Composition' : '5_AUTOSAR_Methodology_Composition.md'
+  - '6. CAN' : '6_AUTOSAR_Methodology_CAN.md'
+  - '7. System' : '7_AUTOSAR_Methodology_System.md'
+  - '8. Extracts' : '8_AUTOSAR_Methodology_EXTRACTs.md'
+  - '9. ECUConfiguration' : '9_AUTOSAR_Methodology_ECUConfiguration.md'
+  - '10. HW Raw Connect' : '10_RTE_RTAOS_IFX_Direct.md'
+  - '11. Mcal' : '11_RTE_RTAOS_IFX_Mcal.md'
+  - '12. IoAbs' : '12_RTE_RTAOS_BSW_IoAbs.md'
+  - '13. BSW Config' : '13 1 RTE RTAOS BSW Config.md'
+  - '14. Summary' : '14 Summary V1.md'
